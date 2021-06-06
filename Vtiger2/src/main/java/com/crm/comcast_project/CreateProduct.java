@@ -6,5 +6,5 @@ package com.crm.comcast_project;
  */
 public class CreateProduct 
 {
-
+int a=2;
 }
